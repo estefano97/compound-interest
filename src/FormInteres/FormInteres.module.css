@@ -1,0 +1,21 @@
+.FormStyle {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.submitButton {
+    color: white;
+    padding: .75rem 1.5rem;
+    background-color: navy;
+    border-radius: 6px;
+    margin: 1rem;
+    border: none;
+    transition: .25s;
+    cursor: pointer;
+}
+
+.submitButton:hover {
+    background-color: blue;
+}

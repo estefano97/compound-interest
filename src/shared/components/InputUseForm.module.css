@@ -1,0 +1,8 @@
+.InputStyles{
+    margin: 1rem .5rem;
+    font-size: 1.25rem;
+    padding: .05rem .05rem;
+    outline: none;
+    border: none;
+    border-bottom: 1px navy solid;
+}
